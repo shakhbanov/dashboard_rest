@@ -91,7 +91,10 @@
    ```
 
 ---
-<img src="https://s3.shakhbanov.org/blog/gif" alt="GIF анимация">
+<p align="center">
+  <img src="gif.gif" alt="GIF анимация">
+</p>
+
 
 
 
